@@ -35,9 +35,9 @@ The installer shows logs in **English, Russian, Spanish, French, Chinese, or Por
 ### Optional: Splash Screen
 The module includes a `logo.zip` archive (generated with [this tool](https://4pda.to/forum/index.php?showtopic=1023354&st=1580#entry114714184)) containing:
 
- -**Splash (POCO logo)**
- -**FASTBOOT**
- -**Destroyed system warning**
+ * **Splash (POCO logo)**
+ * **FASTBOOT**
+ * **Destroyed system warning**
 
 All screens are redrawn in Cyberpunk 2077 style.
 
