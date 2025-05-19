@@ -35,9 +35,9 @@ The installer shows logs in **English, Russian, Spanish, French, Chinese, or Por
 ### Optional: Splash Screen
 The module includes a `logo.zip` archive (generated with [this tool](https://4pda.to/forum/index.php?showtopic=1023354&st=1580#entry114714184)) containing:
 
- **-Splash (POCO logo)**
- **-FASTBOOT**
- **-Destroyed system warning**
+ -**Splash (POCO logo)**
+ -**FASTBOOT**
+ -**Destroyed system warning**
 
 All screens are redrawn in Cyberpunk 2077 style.
 
@@ -58,9 +58,14 @@ All screens are redrawn in Cyberpunk 2077 style.
 ---
 
 ### IMPORTANT: Installing the Splash Screen
+
+⚠️ Installing custom splash screens is only recommended for **Xiaomi phones**, as the tool used to create them is specifically designed for Xiaomi devices (and even then, not all models are supported).
+Tested on **POCO F4 GT** and **Redmi Note 12 Turbo (POCO F5)**.
+
 To flash the custom Cyberpunk splash images:
 
  1. Reboot into **TWRP** or another custom recovery
  2. Tap **Install**
  3. Navigate to ```/data/adb/modules/Cyberpunk_2077_BA_SS/```
- 4. Select `logo.zip and flash it
+ 4. Select `logo.zip` and flash it
+
