@@ -1,6 +1,8 @@
+**Languages**: [English](README.md) | [Русский](READMEru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
+
 # Cyberpunk 2077 Bootanimation & Splashscreen for POCO
 
-This Magisk module replaces the default boot animation with a Cyberpunk-style animation inspired by the **OnePlus 8T Cyberpunk 2077 Edition**, adapted specifically for **POCO**. An optional **custom splash screen** is also included.
+This Magisk module replaces the default boot animation with a Cyberpunk-style animation inspired by the **OnePlus 8T Cyberpunk 2077 Edition**, adapted specifically for **POCO**. An optional custom **splash screen** is also included.
 
 ---
 
@@ -13,7 +15,7 @@ This Magisk module replaces the default boot animation with a Cyberpunk-style an
 ---
 
 ### Compatibility
-This module works on any device running Magisk 20.4+ where the boot animation is located in one of the following paths:
+This module works on any device running **Magisk 20.4+** where the boot animation is located in one of the following paths:
 
 ```
 /system/media/bootanimation.zip  
@@ -59,13 +61,13 @@ All screens are redrawn in Cyberpunk 2077 style.
 
 ### IMPORTANT: Installing the Splash Screen
 
-⚠️ Installing custom splash screens is only recommended for **Xiaomi phones**, as the tool used to create them is specifically designed for Xiaomi devices (and even then, not all models are supported).
+⚠️ Installing custom **splash screens** is only recommended for **Xiaomi phones**, as the tool used to create them is specifically designed for Xiaomi devices (and even then, not all models are supported).
 Tested on **POCO F4 GT** and **Redmi Note 12 Turbo (POCO F5)**.
 
 To flash the custom Cyberpunk splash images:
 
  1. Reboot into **TWRP** or another custom recovery
- 2. Tap **Install**
- 3. Navigate to ```/data/adb/modules/Cyberpunk_2077_BA_SS/```
+ 2. Tap **«Install»**
+ 3. Navigate to `/data/adb/modules/Cyberpunk_2077_BA_SS/`
  4. Select `logo.zip` and flash it
 
