@@ -1,4 +1,4 @@
-**Languages**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
+**Languages**: [English](README.md) | [Русский](README/ru.md) | [Español](README/es.md) | [Français](README/fr.md) | [Português](README/pt.md) | [中文](README/zh.md)
 
 # Cyberpunk 2077 Bootanimation & Splashscreen for POCO
 
@@ -15,7 +15,8 @@ This Magisk module replaces the default boot animation with a Cyberpunk-style an
 ---
 
 ### Compatibility
-This module works on any device running **Magisk 20.4+** where the boot animation is located in one of the following paths:
+
+This module works on any device running (not only POCO) **Magisk 20.4+** where the boot animation is located in one of the following paths:
 
 ```
 /system/media/bootanimation.zip  
@@ -25,7 +26,15 @@ This module works on any device running **Magisk 20.4+** where the boot animatio
 /vendor/media/bootanimation.zip  
 ```
 
-If the animation isn't changed on your device, [contact me on Telegram](https://t.me/mbczqetuo) so I can add support for your path.
+If the animation isn't changed on your device, [contact me on Telegram](https://t.me/mbczqetuo), so I can add support for your device's animation directory.
+
+---
+
+### Installation
+
+ 1. [Download the module from Releases](https://github.com/ENEIZEM/Magisk-Module-Cyberpunk-2077-Bootanimation-SplashScreen-POCO/releases)
+ 2. Open the Magisk app
+ 3. Go to the **Modules** tab and select the downloaded `.zip` file
 
 ---
 
@@ -51,14 +60,6 @@ All screens are redrawn in Cyberpunk 2077 style.
 
 ---
 
-### Installation
-
- 1. [Download the module from Releases](https://github.com/ENEIZEM/Magisk-Module-Cyberpunk-2077-Bootanimation-SplashScreen-POCO/releases)
- 2. Open the Magisk app
- 3. Go to the **Modules** tab and select the downloaded `.zip` file
-
----
-
 ### IMPORTANT: Installing the Splash Screen
 
 ⚠️ Installing custom **splash screens** is only recommended for **Xiaomi phones**, as the tool used to create them is specifically designed for Xiaomi devices (and even then, not all models are supported).
@@ -71,3 +72,7 @@ To flash the custom Cyberpunk splash images:
  3. Navigate to `/data/adb/modules/Cyberpunk_2077_BA_SS/`
  4. Select `logo.zip` and flash it
 
+---
+
+### Feedback
+Feel free to reach out if you have ideas for improvements, encounter any bugs, or just want to share your thoughts!

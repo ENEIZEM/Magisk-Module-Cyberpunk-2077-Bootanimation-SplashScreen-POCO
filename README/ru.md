@@ -1,4 +1,4 @@
-**Languages**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
+**Языки**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
 
 # Cyberpunk 2077 Bootanimation & Splashscreen для POCO
 
@@ -16,7 +16,7 @@
 
 ### Совместимость
 
-Этот модуль работает на любом устройстве с **Magisk 20.4+**, если файл анимации загрузки находится в одной из следующих директорий:
+Этот модуль работает на любом устройстве (не только на POCO) с **Magisk 20.4+**, если файл анимации загрузки находится в одной из следующих директорий:
 
 ```
 /system/media/bootanimation.zip
@@ -26,7 +26,15 @@
 /vendor/media/bootanimation.zip
 ```
 
-Если анимация не изменилась, [свяжитесь со мной в Telegram](https://t.me/mbczqetuo), чтобы я мог добавить поддержку вашего пути.
+Если анимация не изменилась, [свяжитесь со мной в Telegram](https://t.me/mbczqetuo), чтобы я мог добавить поддержку директории анимации вашего устройства.
+
+---
+
+### Установка
+
+ 1. [Скачайте модуль из раздела Releases](https://github.com/ENEIZEM/Magisk-Module-Cyberpunk-2077-Bootanimation-SplashScreen-POCO/releases)
+ 2. Откройте приложение Magisk
+ 3. Перейдите во вкладку **"Модули"** и выберите скачанный `.zip` файл
 
 ---
 
@@ -54,14 +62,6 @@
 
 ---
 
-### Установка
-
- 1. [Скачайте модуль из раздела Releases](https://github.com/ENEIZEM/Magisk-Module-Cyberpunk-2077-Bootanimation-SplashScreen-POCO/releases)
- 2. Откройте приложение Magisk
- 3. Перейдите во вкладку **"Модули"** и выберите скачанный `.zip` файл
-
----
-
 ### ВАЖНО: Установка Splash Screen
 
 ⚠️ Установка кастомных **Splash Screens** рекомендуется только для **телефонов Xiaomi**, так как инструмент для их создания разработан специально для устройств Xiaomi (и даже в этом случае поддерживаются не все модели).
@@ -72,4 +72,9 @@
  1. Перезагрузитесь в **TWRP** или другое кастомное рекавери
  2. Выберите **«Установка»**
  3. Перейдите в директорию: `/data/adb/modules/Cyberpunk_2077_BA_SS/`
- 4. Выберите `logo.zip` и прошейте его.
+ 4. Выберите `logo.zip` и прошейте его
+
+---
+
+### Обратная связь
+Вы можете написать мне с предложениями по улучшению, сообщением о найденных багах или просто поделиться мнением!
