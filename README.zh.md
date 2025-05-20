@@ -1,4 +1,4 @@
-**语言**: [English](README.md) | [Русский](README/ru.md) | [Español](README/es.md) | [Français](README/fr.md) | [Português](README/pt.md) | [中文](README/zh.md)
+**语言**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
 
 # 赛博朋克 2077 启动动画和开机画面（POCO 专用） (中文)
 

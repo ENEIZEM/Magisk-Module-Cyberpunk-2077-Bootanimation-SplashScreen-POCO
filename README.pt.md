@@ -1,4 +1,4 @@
-**Idiomas**: [English](README.md) | [Русский](README/ru.md) | [Español](README/es.md) | [Français](README/fr.md) | [Português](README/pt.md) | [中文](README/zh.md)
+**Idiomas**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
 
 # Animação de Inicialização e Tela Splash do Cyberpunk 2077 para POCO (Português)
 

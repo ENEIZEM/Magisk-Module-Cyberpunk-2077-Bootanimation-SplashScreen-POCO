@@ -1,4 +1,4 @@
-**Langues**: [English](README.md) | [Русский](README/ru.md) | [Español](README/es.md) | [Français](README/fr.md) | [Português](README/pt.md) | [中文](README/zh.md)
+**Langues**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
 
 # Cyberpunk 2077 Bootanimation et Écran d'Accueil pour POCO (Français)
 
