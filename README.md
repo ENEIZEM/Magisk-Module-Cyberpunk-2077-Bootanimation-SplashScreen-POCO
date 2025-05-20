@@ -1,5 +1,4 @@
-**Languages**: [English](README.md) | [Русский](README/ru.md) | [Español](README/es.md) | [Français](README/fr.md) | [Português](README/pt.md) | [中文](README/zh.md)
-
+**Languages**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
 # Cyberpunk 2077 Bootanimation & Splashscreen for POCO
 
 This Magisk module replaces the default boot animation with a Cyberpunk-style animation inspired by the **OnePlus 8T Cyberpunk 2077 Edition**, adapted specifically for **POCO**. An optional custom **splash screen** is also included.
