@@ -6,10 +6,22 @@ Este módulo de Magisk reemplaza la animación de inicio predeterminada con una 
 ---
 
 ### Animación original:
-![Original 1](images/original1.png) ![Original 2](images/original2.png)
+<table>
+  <tr>
+    <td><img src="images/splash_orig1.png" width="100%"/></td>
+    <td><img src="images/splash_orig2.png" width="100%"/></td>
+    <td><img src="images/splash_orig3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Versión adaptada para POCO:
-![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
+<table>
+  <tr>
+    <td><img src="images/custom1.png" width="100%"/></td>
+    <td><img src="images/custom2.png" width="100%"/></td>
+    <td><img src="images/custom3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -34,8 +46,6 @@ Si la animación no se cambió en tu dispositivo, [contáctame en Telegram](http
  2. Abre la aplicación Magisk
  3. Ve a la pestaña **«Módulos»** y selecciona el archivo `.zip` descargado
 
----
-
 ### Registro multilingüe del instalador
 
 El instalador muestra registros en **español, inglés, ruso, francés, chino o portugués**, según el idioma de tu sistema.
@@ -52,10 +62,22 @@ El módulo incluye un archivo `logo.zip` (generado con [esta herramienta](https:
 Todas las pantallas han sido rediseñadas al estilo Cyberpunk 2077.
 
 ### Pantallas originales:
-![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_orig1.png" width="100%"/></td>
+    <td><img src="images/splash_orig2.png" width="100%"/></td>
+    <td><img src="images/splash_orig3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Versión Cyberpunk:
-![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_custom1.png" width="100%"/></td>
+    <td><img src="images/splash_custom2.png" width="100%"/></td>
+    <td><img src="images/splash_custom3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 

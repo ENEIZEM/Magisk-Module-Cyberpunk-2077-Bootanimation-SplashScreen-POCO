@@ -6,10 +6,22 @@
 ---
 
 ### Оригинальная анимация:
-![Original 1](images/original1.png) ![Original 2](images/original2.png)
+<table>
+  <tr>
+    <td><img src="images/splash_orig1.png" width="100%"/></td>
+    <td><img src="images/splash_orig2.png" width="100%"/></td>
+    <td><img src="images/splash_orig3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Перерисованная версия под POCO:
-![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
+<table>
+  <tr>
+    <td><img src="images/custom1.png" width="100%"/></td>
+    <td><img src="images/custom2.png" width="100%"/></td>
+    <td><img src="images/custom3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -35,8 +47,6 @@
  2. Откройте приложение Magisk
  3. Перейдите во вкладку **"Модули"** и выберите скачанный `.zip` файл
 
----
-
 ### Мультиязычный лог установки
 
 Во время установки вы увидите лог на **русском, английском, испанском, французском, китайском или португальском** языке, в зависимости от языка вашей системы.
@@ -54,10 +64,22 @@
 Все экраны перерисованы в стиле Cyberpunk 2077.
 
 ### Оригинальные заставки:
-![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_orig1.png" width="100%"/></td>
+    <td><img src="images/splash_orig2.png" width="100%"/></td>
+    <td><img src="images/splash_orig3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Кастомные заставки:
-![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_custom1.png" width="100%"/></td>
+    <td><img src="images/splash_custom2.png" width="100%"/></td>
+    <td><img src="images/splash_custom3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 

@@ -49,8 +49,6 @@ If the animation isn't changed on your device, [contact me on Telegram](https://
  2. Open the Magisk app
  3. Go to the **Modules** tab and select the downloaded `.zip` file
 
----
-
 ### Multilingual Installer Log
 The installer shows logs in **English, Russian, Spanish, French, Chinese, or Portuguese**, based on your system language.
 
@@ -65,6 +63,7 @@ The module includes a `logo.zip` archive (generated with [this tool](https://4pd
 
 All screens are redrawn in Cyberpunk 2077 style.
 
+### Original Screens:
 <table>
   <tr>
     <td><img src="images/splash_orig1.png" width="100%"/></td>
@@ -74,7 +73,6 @@ All screens are redrawn in Cyberpunk 2077 style.
 </table>
 
 ### Cyberpunk Screens:
-
 <table>
   <tr>
     <td><img src="images/splash_custom1.png" width="100%"/></td>

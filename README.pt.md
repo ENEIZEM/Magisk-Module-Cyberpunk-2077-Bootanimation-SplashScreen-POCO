@@ -6,10 +6,22 @@ Este módulo Magisk substitui a animação padrão por uma versão no estilo Cyb
 ---
 
 ### Animação original:
-![Original 1](images/original1.png) ![Original 2](images/original2.png)
+<table>
+  <tr>
+    <td><img src="images/splash_orig1.png" width="100%"/></td>
+    <td><img src="images/splash_orig2.png" width="100%"/></td>
+    <td><img src="images/splash_orig3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Versão redesenhada para POCO:
-![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
+<table>
+  <tr>
+    <td><img src="images/custom1.png" width="100%"/></td>
+    <td><img src="images/custom2.png" width="100%"/></td>
+    <td><img src="images/custom3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -35,8 +47,6 @@ Se nada mudou, [fale comigo no Telegram](https://t.me/mbczqetuo) para que eu pos
  2. Abra o aplicativo Magisk
  3. Vá até a aba **“Módulos”** e selecione o arquivo `.zip` baixado
 
----
-
 ### Instalação com suporte multilíngue
 
 Durante a instalação, as mensagens aparecerão em **português, inglês, espanhol, francês, russo ou chinês**, dependendo do idioma do sistema.
@@ -53,10 +63,22 @@ O arquivo `logo.zip` incluído (gerado com [essa ferramenta](https://4pda.to/for
 Todos redesenhados no estilo Cyberpunk 2077.
 
 ### Telas originais:
-![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_orig1.png" width="100%"/></td>
+    <td><img src="images/splash_orig2.png" width="100%"/></td>
+    <td><img src="images/splash_orig3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Telas Cyberpunk:
-![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_custom1.png" width="100%"/></td>
+    <td><img src="images/splash_custom2.png" width="100%"/></td>
+    <td><img src="images/splash_custom3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 

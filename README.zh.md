@@ -6,10 +6,22 @@
 ---
 
 ### 原版动画：
-![Original 1](images/original1.png) ![Original 2](images/original2.png)
+<table>
+  <tr>
+    <td><img src="images/original1.png" width="100%"/></td>
+    <td><img src="images/original2.png" width="100%"/></td>
+    <td><img src="images/original3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### POCO 定制动画：
-![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
+<table>
+  <tr>
+    <td><img src="images/custom1.png" width="100%"/></td>
+    <td><img src="images/custom2.png" width="100%"/></td>
+    <td><img src="images/custom3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -35,8 +47,6 @@
  2. 打开 Magisk 应用
  3. 进入**“模块”**标签，选择下载的 `.zip` 文件安装
 
----
-
 ### 多语言安装日志
 
 安装日志根据系统语言自动显示为：**中文、英文、俄文、西班牙文、法文或葡萄牙文**。
@@ -54,10 +64,22 @@
 全部采用赛博朋克风格重绘。
 
 ### 原始画面：
-![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_orig1.png" width="100%"/></td>
+    <td><img src="images/splash_orig2.png" width="100%"/></td>
+    <td><img src="images/splash_orig3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### 赛博朋克版本：
-![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_custom1.png" width="100%"/></td>
+    <td><img src="images/splash_custom2.png" width="100%"/></td>
+    <td><img src="images/splash_custom3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
