@@ -5,17 +5,23 @@ This Magisk module replaces the default boot animation with a Cyberpunk-style an
 
 ---
 
-<div align="center">
-  <img src="images/original1.png" width="30%" />
-  <img src="images/original2.png" width="30%" />
-</div>
+### Original animation:
+
+<table>
+  <tr>
+    <td><img src="images/original1.png" width="100%"/></td>
+    <td><img src="images/original2.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Redrawn animation for POCO:
 
-<div align="center">
-  <img src="images/custom1.png" width="30%" />
-  <img src="images/custom2.png" width="30%" />
-</div>
+<table>
+  <tr>
+    <td><img src="mages/custom1.png" width="100%"/></td>
+    <td><img src="mages/custom1.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -59,8 +65,8 @@ All screens are redrawn in Cyberpunk 2077 style.
 
 <table>
   <tr>
-    <td><img src="images/splash_orig1.png" width="30%"/></td>
-    <td><img src="images/splash_orig2.png" width="30%"/></td>
+    <td><img src="images/splash_orig1.png" width="100%"/></td>
+    <td><img src="images/splash_orig2.png" width="100%"/></td>
     <td><img src="images/splash_orig3.png" width="100%"/></td>
   </tr>
 </table>
@@ -69,9 +75,9 @@ All screens are redrawn in Cyberpunk 2077 style.
 
 <table>
   <tr>
-    <td><img src="images/splash_custom1.png" width="30%"/></td>
-    <td><img src="images/splash_custom2.png" width="30%"/></td>
-    <td><img src="images/splash_custom3.png" width="30%"/></td>
+    <td><img src="images/splash_custom1.png" width="100%"/></td>
+    <td><img src="images/splash_custom2.png" width="100%"/></td>
+    <td><img src="images/splash_custom3.png" width="100%"/></td>
   </tr>
 </table>
 
