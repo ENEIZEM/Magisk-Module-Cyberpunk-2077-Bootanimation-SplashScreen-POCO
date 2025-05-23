@@ -1,5 +1,5 @@
 **Idiomas**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
-# Animação de Inicialização e Tela Splash do Cyberpunk 2077 para POCO (Português)
+# Animação de Inicialização e Tela Splash do Cyberpunk 2077 para POCO
 
 Este módulo Magisk substitui a animação padrão por uma versão no estilo Cyberpunk 2077, inspirada no **OnePlus 8T Edição Cyberpunk 2077** e adaptada para dispositivos **POCO**. Inclui também uma tela splash personalizada opcional.
 
@@ -8,9 +8,9 @@ Este módulo Magisk substitui a animação padrão por uma versão no estilo Cyb
 ### Animação original:
 <table>
   <tr>
-    <td><img src="images/splash_orig1.png" width="100%"/></td>
-    <td><img src="images/splash_orig2.png" width="100%"/></td>
-    <td><img src="images/splash_orig3.png" width="100%"/></td>
+    <td><img src="images/original1.png" width="100%"/></td>
+    <td><img src="images/original2.png" width="100%"/></td>
+    <td><img src="images/original3.png" width="100%"/></td>
   </tr>
 </table>
 

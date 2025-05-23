@@ -8,9 +8,9 @@
 ### Оригинальная анимация:
 <table>
   <tr>
-    <td><img src="images/splash_orig1.png" width="100%"/></td>
-    <td><img src="images/splash_orig2.png" width="100%"/></td>
-    <td><img src="images/splash_orig3.png" width="100%"/></td>
+    <td><img src="images/original1.png" width="100%"/></td>
+    <td><img src="images/original2.png" width="100%"/></td>
+    <td><img src="images/original3.png" width="100%"/></td>
   </tr>
 </table>
 

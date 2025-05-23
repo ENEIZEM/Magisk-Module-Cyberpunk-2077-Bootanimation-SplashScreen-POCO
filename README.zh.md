@@ -1,5 +1,5 @@
 **语言**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
-# 赛博朋克 2077 启动动画和开机画面（POCO 专用） (中文)
+# 赛博朋克 2077 启动动画和开机画面（POCO 专用）
 
 本 Magisk 模块将默认启动动画替换为赛博朋克风格，灵感来源于 **OnePlus 8T Cyberpunk 2077 限定版**，并专为 **POCO** 设备重绘。模块还包含一个可选的自定义 **Splash 启动画面**。
 

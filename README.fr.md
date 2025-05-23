@@ -1,5 +1,5 @@
 **Langues**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
-# Cyberpunk 2077 Bootanimation et Écran d'Accueil pour POCO (Français)
+# Cyberpunk 2077 Bootanimation et Écran d'Accueil pour POCO
 
 Ce module Magisk remplace l'animation de démarrage par une version Cyberpunk 2077, inspirée du **OnePlus 8T Cyberpunk 2077 Edition** et redessinée pour les appareils **POCO**. Un **écran d'accueil personnalisé** est également inclus en option.
 
@@ -8,9 +8,9 @@ Ce module Magisk remplace l'animation de démarrage par une version Cyberpunk 20
 ### Animation originale:
 <table>
   <tr>
-    <td><img src="images/splash_orig1.png" width="100%"/></td>
-    <td><img src="images/splash_orig2.png" width="100%"/></td>
-    <td><img src="images/splash_orig3.png" width="100%"/></td>
+    <td><img src="images/original1.png" width="100%"/></td>
+    <td><img src="images/original2.png" width="100%"/></td>
+    <td><img src="images/original3.png" width="100%"/></td>
   </tr>
 </table>
 
