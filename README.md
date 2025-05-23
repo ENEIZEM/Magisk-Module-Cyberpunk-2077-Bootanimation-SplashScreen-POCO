@@ -9,8 +9,8 @@ This Magisk module replaces the default boot animation with a Cyberpunk-style an
 
 <table>
   <tr>
-    <td><img src="images/original1.png" width="100%"/></td>
-    <td><img src="images/original2.png" width="100%"/></td>
+    <td><img src="images/original1.png" width="66%"/></td>
+    <td><img src="images/original2.png" width="66%"/></td>
   </tr>
 </table>
 
@@ -18,8 +18,8 @@ This Magisk module replaces the default boot animation with a Cyberpunk-style an
 
 <table>
   <tr>
-    <td><img src="mages/custom1.png" width="100%"/></td>
-    <td><img src="mages/custom1.png" width="100%"/></td>
+    <td><img src="images/custom1.png" width="66%"/></td>
+    <td><img src="images/custom2.png" width="66%"/></td>
   </tr>
 </table>
 
