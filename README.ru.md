@@ -1,5 +1,4 @@
 **Языки**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
-
 # Cyberpunk 2077 Bootanimation & Splashscreen для POCO
 
 Этот Magisk-модуль заменяет стандартную анимацию загрузки на стильную киберпанковую из **OnePlus 8T Cyberpunk 2077 Edition**, адаптированную специально для **POCO**. Также доступен опциональный кастомный **Splash Screen**.
@@ -7,10 +6,10 @@
 ---
 
 ### Оригинальная анимация:
-![Original 1](images/original1.jpg) ![Original 2](images/original2.jpg)
+![Original 1](images/original1.png) ![Original 2](images/original2.png)
 
 ### Перерисованная версия под POCO:
-![Custom 1](images/custom1.jpg) ![Custom 2](images/custom2.jpg)
+![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
 
 ---
 
@@ -55,10 +54,10 @@
 Все экраны перерисованы в стиле Cyberpunk 2077.
 
 ### Оригинальные заставки:
-![Original Splash 1](images/splash_orig1.jpg) ![Original Splash 2](images/splash_orig2.jpg) ![Original Splash 3](images/splash_orig3.jpg)
+![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
 
 ### Кастомные заставки:
-![Cyberpunk Splash 1](images/splash_custom1.jpg) ![Cyberpunk Splash 2](images/splash_custom2.jpg) ![Cyberpunk Splash 3](images/splash_custom3.jpg)
+![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
 
 ---
 

@@ -1,5 +1,4 @@
 **Idiomas**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
-
 # Animação de Inicialização e Tela Splash do Cyberpunk 2077 para POCO (Português)
 
 Este módulo Magisk substitui a animação padrão por uma versão no estilo Cyberpunk 2077, inspirada no **OnePlus 8T Edição Cyberpunk 2077** e adaptada para dispositivos **POCO**. Inclui também uma tela splash personalizada opcional.
@@ -7,10 +6,10 @@ Este módulo Magisk substitui a animação padrão por uma versão no estilo Cyb
 ---
 
 ### Animação original:
-![Original 1](images/original1.jpg) ![Original 2](images/original2.jpg)
+![Original 1](images/original1.png) ![Original 2](images/original2.png)
 
 ### Versão redesenhada para POCO:
-![Custom 1](images/custom1.jpg) ![Custom 2](images/custom2.jpg)
+![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
 
 ---
 
@@ -54,10 +53,10 @@ O arquivo `logo.zip` incluído (gerado com [essa ferramenta](https://4pda.to/for
 Todos redesenhados no estilo Cyberpunk 2077.
 
 ### Telas originais:
-![Original Splash 1](images/splash_orig1.jpg) ![Original Splash 2](images/splash_orig2.jpg) ![Original Splash 3](images/splash_orig3.jpg)
+![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
 
 ### Telas Cyberpunk:
-![Cyberpunk Splash 1](images/splash_custom1.jpg) ![Cyberpunk Splash 2](images/splash_custom2.jpg) ![Cyberpunk Splash 3](images/splash_custom3.jpg)
+![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
 
 ---
 

@@ -1,5 +1,4 @@
 **Idiomas**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
-
 # Bootanimation y Pantalla de Inicio de Cyberpunk 2077 para POCO
 
 Este módulo de Magisk reemplaza la animación de inicio predeterminada con una animación al estilo Cyberpunk 2077, inspirada en el **OnePlus 8T Cyberpunk 2077 Edition** y adaptada especialmente para **POCO**. También incluye una **pantalla** de inicio personalizada opcional.
@@ -7,10 +6,10 @@ Este módulo de Magisk reemplaza la animación de inicio predeterminada con una 
 ---
 
 ### Animación original:
-![Original 1](images/original1.jpg) ![Original 2](images/original2.jpg)
+![Original 1](images/original1.png) ![Original 2](images/original2.png)
 
 ### Versión adaptada para POCO:
-![Custom 1](images/custom1.jpg) ![Custom 2](images/custom2.jpg)
+![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
 
 ---
 
@@ -20,7 +19,7 @@ Este módulo funciona en cualquier dispositivo (no solo POCO) con **Magisk 20.4+
 ```
 /system/media/bootanimation.zip
 /system/product/media/bootanimation.zip
-/system/system\_ext/media/bootanimation.zip
+/system/system_ext/media/bootanimation.zip
 /product/media/bootanimation.zip
 /vendor/media/bootanimation.zip
 ```
@@ -53,10 +52,10 @@ El módulo incluye un archivo `logo.zip` (generado con [esta herramienta](https:
 Todas las pantallas han sido rediseñadas al estilo Cyberpunk 2077.
 
 ### Pantallas originales:
-![Original Splash 1](images/splash_orig1.jpg) ![Original Splash 2](images/splash_orig2.jpg) ![Original Splash 3](images/splash_orig3.jpg)
+![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
 
 ### Versión Cyberpunk:
-![Cyberpunk Splash 1](images/splash_custom1.jpg) ![Cyberpunk Splash 2](images/splash_custom2.jpg) ![Cyberpunk Splash 3](images/splash_custom3.jpg)
+![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
 
 ---
 

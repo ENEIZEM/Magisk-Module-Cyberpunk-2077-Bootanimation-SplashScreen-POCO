@@ -1,5 +1,4 @@
 **Langues**: [English](README.md) | [Русский](README.ru.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [中文](README.zh.md)
-
 # Cyberpunk 2077 Bootanimation et Écran d'Accueil pour POCO (Français)
 
 Ce module Magisk remplace l'animation de démarrage par une version Cyberpunk 2077, inspirée du **OnePlus 8T Cyberpunk 2077 Edition** et redessinée pour les appareils **POCO**. Un **écran d'accueil personnalisé** est également inclus en option.
@@ -7,10 +6,10 @@ Ce module Magisk remplace l'animation de démarrage par une version Cyberpunk 20
 ---
 
 ### Animation originale:
-![Original 1](images/original1.jpg) ![Original 2](images/original2.jpg)
+![Original 1](images/original1.png) ![Original 2](images/original2.png)
 
 ### Version modifiée pour POCO:
-![Custom 1](images/custom1.jpg) ![Custom 2](images/custom2.jpg)
+![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
 
 ---
 
@@ -53,10 +52,10 @@ Le fichier `logo.zip` inclus (généré avec [cet outil](https://4pda.to/forum/i
 Tous sont adaptés au style Cyberpunk 2077.
 
 ### Originaux:
-![Original Splash 1](images/splash_orig1.jpg) ![Original Splash 2](images/splash_orig2.jpg) ![Original Splash 3](images/splash_orig3.jpg)
+![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
 
 ### Versions Cyberpunk:
-![Cyberpunk Splash 1](images/splash_custom1.jpg) ![Cyberpunk Splash 2](images/splash_custom2.jpg) ![Cyberpunk Splash 3](images/splash_custom3.jpg)
+![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
 
 ---
 
