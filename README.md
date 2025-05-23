@@ -5,11 +5,17 @@ This Magisk module replaces the default boot animation with a Cyberpunk-style an
 
 ---
 
-### Original animation:
-![Original 1](images/original1.png) ![Original 2](images/original2.png)
+<div align="center">
+  <img src="images/original1.png" width="30%" />
+  <img src="images/original2.png" width="30%" />
+</div>
 
 ### Redrawn animation for POCO:
-![Custom 1](images/custom1.png) ![Custom 2](images/custom2.png)
+
+<div align="center">
+  <img src="images/custom1.png" width="30%" />
+  <img src="images/custom2.png" width="30%" />
+</div>
 
 ---
 
@@ -51,11 +57,23 @@ The module includes a `logo.zip` archive (generated with [this tool](https://4pd
 
 All screens are redrawn in Cyberpunk 2077 style.
 
-### Original Screens:
-![Original Splash 1](images/splash_orig1.png) ![Original Splash 2](images/splash_orig2.png) ![Original Splash 3](images/splash_orig3.png)
+<table>
+  <tr>
+    <td><img src="images/splash_orig1.png" width="30%"/></td>
+    <td><img src="images/splash_orig2.png" width="30%"/></td>
+    <td><img src="images/splash_orig3.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Cyberpunk Screens:
-![Cyberpunk Splash 1](images/splash_custom1.png) ![Cyberpunk Splash 2](images/splash_custom2.png) ![Cyberpunk Splash 3](images/splash_custom3.png)
+
+<table>
+  <tr>
+    <td><img src="images/splash_custom1.png" width="30%"/></td>
+    <td><img src="images/splash_custom2.png" width="30%"/></td>
+    <td><img src="images/splash_custom3.png" width="30%"/></td>
+  </tr>
+</table>
 
 ---
 
