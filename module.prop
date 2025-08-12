@@ -1,0 +1,8 @@
+id=Cyberpunk_2077_BA_SS
+name=Cyberpunk 2077 Bootanimation & Splashscreen for POCO
+version=1.0
+versionCode=1
+author=ENEIZEM
+description=This Magisk module replaces the default boot animation with a Cyberpunk-style animation inspired by the OnePlus 8T Cyberpunk 2077 Edition, adapted specifically for POCO. An optional custom splash screen is also included.
+minMagisk=20400
+updateJson=https://raw.githubusercontent.com/ENEIZEM/Magisk-Module-Cyberpunk-2077-Bootanimation-SplashScreen-POCO/main/update.json
