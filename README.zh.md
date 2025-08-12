@@ -103,12 +103,12 @@
 
 ## 安装自定义启动画面步骤：
 
-> 1. 重启进入 **TWRP** 或其他第三方 Recovery
-> 2. 点击 **“安装”**
-> 3. 浏览到路径 `/data/adb/modules/Cyberpunk_2077_BA_SS/`
-> 4. 选择 `logo.zip` 并刷入
->
-> ---
+ 1. 重启进入 **TWRP** 或其他第三方 Recovery
+ 2. 点击 **“安装”**
+ 3. 浏览到路径 `/data/adb/modules/Cyberpunk_2077_BA_SS/`
+ 4. 选择 `logo.zip` 并刷入
+
+---
 
 ### 反馈
 

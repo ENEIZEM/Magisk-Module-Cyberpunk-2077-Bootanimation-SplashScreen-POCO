@@ -102,10 +102,10 @@ Todos redesenhados no estilo Cyberpunk 2077.
 
 ## Para instalar as logos personalizadas (Splash, Fastboot, Sistema destruído):
 
-> 1. Reinicie em **TWRP** ou outro recovery personalizado
-> 2. Toque em **«Instalar»**
-> 3. Navegue até `/data/adb/modules/Cyberpunk_2077_BA_SS/`
-> 4. Selecione `logo.zip` e flasheie
+ 1. Reinicie em **TWRP** ou outro recovery personalizado
+ 2. Toque em **«Instalar»**
+ 3. Navegue até `/data/adb/modules/Cyberpunk_2077_BA_SS/`
+ 4. Selecione `logo.zip` e flasheie
 
 ---
 
