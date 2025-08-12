@@ -37,7 +37,7 @@ Compatível com qualquer dispositivo (não apenas POCO) com **Magisk 20.4+** e b
 /vendor/media/bootanimation.zip
 ```
 
-Se nada mudou, [fale comigo no Telegram](https://t.me/mbczqetuo) para que eu possa adicionar suporte ao diretório de animação do seu dispositivo.
+Se nada mudou, [fale comigo no Telegram](https://t.me/ENEIZEMatic) para que eu possa adicionar suporte ao diretório de animação do seu dispositivo.
 
 ---
 
@@ -82,19 +82,35 @@ Todos redesenhados no estilo Cyberpunk 2077.
 
 ---
 
-### IMPORTANTE: Como instalar a Splash Screen
+> [!WARNING]
+> A instalação de **telas splash** personalizadas é recomendada **apenas para telefones Xiaomi**, pois a ferramenta usada para criá-las é feita especificamente para dispositivos Xiaomi (e mesmo assim, nem todos os modelos são suportados).
+> Flashar logos personalizados em dispositivos incompatíveis pode causar falhas críticas de hardware, inclusive danos irreversíveis à CPU e placa-mãe.
+>
+> **Dispositivos suportados:**
+> - MIUI versões 12.5–14
+> - Android versões 11–13
+>
+> **Não suportado de forma alguma:**
+> - Redmi Note 9, Redmi Note 9C e anteriores
+> - Redmi 9T e anteriores
+> - Mi 12, Mi 12 Pro e anteriores
+> - Xiaomi Mi 8 e anteriores
+> - Poco F4 GT e anteriores
+> - Redmi K50, Redmi K50G e anteriores
+>
+> Antes de instalar uma nova logo, confira compatibilidade com o [autor da ferramenta de logo personalizada](https://t.me/theskyfather).
 
-⚠️ A instalação de **telas splash** personalizadas é recomendada apenas para **telefones Xiaomi**, pois a ferramenta usada para criá-las é projetada especificamente para dispositivos Xiaomi (e mesmo assim, nem todos os modelos são suportados).
-Testado no **POCO F4 GT** e **Redmi Note 12 Turbo (POCO F5)**.
+## Para instalar as logos personalizadas (Splash, Fastboot, Sistema destruído):
 
-Para flashear as imagens personalizadas do Cyberpunk splash:
-
- 1. Reinicie em **TWRP** ou outro recovery personalizado
- 2. Vá em **«Instalar»**
- 3. Acesse o caminho: `/data/adb/modules/Cyberpunk_2077_BA_SS/`
- 4. Selecione `logo.zip` e instale.
+> 1. Reinicie em **TWRP** ou outro recovery personalizado
+> 2. Toque em **«Instalar»**
+> 3. Navegue até `/data/adb/modules/Cyberpunk_2077_BA_SS/`
+> 4. Selecione `logo.zip` e flasheie
 
 ---
 
 ### Feedback
+
 Sinta-se à vontade para entrar em contato se tiver ideias para melhorias, encontrar algum bug ou apenas quiser compartilhar seus pensamentos!
+
+[Apoie financeiramente o projeto](https://www.donationalerts.com/r/eneizematic)

@@ -191,7 +191,7 @@ TWRP или другое кастомное рекавери, выберите
 кастомных лого:
 Telegram: @theskyfather
 
-Автор Magisk-модуля: @mbczqetuo"
+Автор Magisk-модуля: @ENEIZEMatic"
 
 msg_logo_instr_es="                       IMPORTANTE:
 Si también desea instalar la pantalla de inicio
@@ -231,7 +231,7 @@ Consulte la compatibilidad con el autor
 de los logos personalizados antes de instalar:
 Telegram: @theskyfather
 
-Autor del módulo Magisk: @mbczqetuo"
+Autor del módulo Magisk: @ENEIZEMatic"
 
 msg_logo_instr_zh="                       重要提示：
 如果您还想在您的 POCO 上安装赛博朋克风格的
@@ -267,7 +267,7 @@ msg_logo_instr_zh="                       重要提示：
 确认兼容性：
 Telegram: @theskyfather
 
-Magisk 模块作者: @mbczqetuo"
+Magisk 模块作者: @ENEIZEMatic"
 
 msg_logo_instr_fr="                       IMPORTANT :
 Si vous souhaitez également installer l'écran de
@@ -308,7 +308,7 @@ Veuillez vérifier la compatibilité avec
 l'auteur des logos personnalisés avant l'installation :
 Telegram : @theskyfather
 
-Auteur du module Magisk : @mbczqetuo"
+Auteur du module Magisk : @ENEIZEMatic"
 
 msg_logo_instr_pt="                       IMPORTANTE:
 Se também desejar instalar a tela de boot
@@ -347,7 +347,7 @@ Consulte a compatibilidade com o autor
 dos logos personalizados antes da instalação:
 Telegram: @theskyfather
 
-Autor do módulo Magisk: @mbczqetuo"
+Autor do módulo Magisk: @ENEIZEMatic"
 
 msg_logo_instr_en="                       IMPORTANT:
 If you also want to install the Cyberpunk style
@@ -386,7 +386,7 @@ Please check compatibility with the author
 of custom logos before installing:
 Telegram: @theskyfather
 
-Magisk module author: @mbczqetuo"
+Magisk module author: @ENEIZEMatic"
 
 print_multiline_msg() {
   case $LANG_CODE in

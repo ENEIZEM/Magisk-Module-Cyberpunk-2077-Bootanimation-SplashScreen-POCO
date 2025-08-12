@@ -26,6 +26,7 @@ Este módulo de Magisk reemplaza la animación de inicio predeterminada con una 
 ---
 
 ### Compatibilidad
+
 Este módulo funciona en cualquier dispositivo (no solo POCO) con **Magisk 20.4+**, siempre que la animación de inicio se encuentre en una de estas rutas:
 
 ```
@@ -36,7 +37,7 @@ Este módulo funciona en cualquier dispositivo (no solo POCO) con **Magisk 20.4+
 /vendor/media/bootanimation.zip
 ```
 
-Si la animación no se cambió en tu dispositivo, [contáctame en Telegram](https://t.me/mbczqetuo) para que pueda agregar soporte para el directorio de animación de tu dispositivo.
+Si la animación no se cambió en tu dispositivo, [contáctame en Telegram](https://t.me/ENEIZEMatic) para que pueda agregar soporte para el directorio de animación de tu dispositivo.
 
 ---
 
@@ -81,19 +82,35 @@ Todas las pantallas han sido rediseñadas al estilo Cyberpunk 2077.
 
 ---
 
-### IMPORTANTE: Instalar Pantalla de Inicio
+> [!WARNING]
+> La instalación de **pantallas de inicio** personalizadas solo se recomienda para **teléfonos Xiaomi**, ya que la herramienta utilizada para crearlas está diseñada específicamente para dispositivos Xiaomi (e incluso así, no todos los modelos son compatibles).
+> Flashear un logo personalizado en un dispositivo no compatible puede causar fallos graves de hardware, hasta daños irreversibles en el CPU y la placa madre.
+>
+> **Dispositivos compatibles:**
+> - MIUI versiones 12.5–14
+> - Android versiones 11–13
+>
+> **No compatibles bajo ninguna circunstancia:**
+> - Redmi Note 9, Redmi Note 9C y anteriores
+> - Redmi 9T y anteriores
+> - Mi 12, Mi 12 Pro y anteriores
+> - Xiaomi Mi 8 y anteriores
+> - Poco F4 GT y anteriores
+> - Redmi K50, Redmi K50G y anteriores
+>
+> Antes de instalar, verifica la compatibilidad con el [autor de la herramienta de logos](https://t.me/theskyfather).
 
-⚠️ La instalación de **pantallas de inicio** personalizadas solo se recomienda para **teléfonos Xiaomi**, ya que la herramienta utilizada para crearlas está diseñada específicamente para dispositivos Xiaomi (e incluso así, no todos los modelos son compatibles).
-Probado en **POCO F4 GT** y **Redmi Note 12 Turbo (POCO F5)**.
+## Para instalar logos personalizados (Splash, Fastboot, Advertencia de sistema destruido):
 
-Para flashear las imágenes personalizadas de Cyberpunk splash:
-
- 1. Reinicia en **TWRP** u otro custom recovery
- 2. Toca **«Instalar»**
- 3. Navega a `/data/adb/modules/Cyberpunk_2077_BA_SS/`
- 4. Selecciona `logo.zip` y flashea
+> 1. Reinicia en **TWRP** u otro custom recovery  
+> 2. Toca **«Instalar»**  
+> 3. Navega a `/data/adb/modules/Cyberpunk_2077_BA_SS/`  
+> 4. Selecciona `logo.zip` y flashea  
 
 ---
 
 ### Feedback
+
 ¡No dudes en comunicarte si tienes ideas para mejoras, encuentras algún error o simplemente quieres compartir tus pensamientos!
+
+[Apoya el proyecto financieramente](https://www.donationalerts.com/r/eneizematic)

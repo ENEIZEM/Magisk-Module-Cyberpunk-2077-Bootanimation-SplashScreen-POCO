@@ -37,7 +37,7 @@
 /vendor/media/bootanimation.zip
 ```
 
-如果动画无效，请在 [Telegram 联系我](https://t.me/mbczqetuo)，以便我添加对您设备动画目录的支持。
+如果动画无效，请在 [Telegram 联系我](https://t.me/ENEIZEMatic)，以便我添加对您设备动画目录的支持。
 
 ---
 
@@ -83,20 +83,35 @@
 
 ---
 
-### 重要：安装 Splash 启动画面
+> [!WARNING]
+> 自定义 **Splash 启动画面** 仅推荐用于 **小米手机**，因为用于制作这些画面的工具是专门为小米设备设计的（且并非所有机型都支持）。
+> 在不兼容设备刷入自定义启动画面可能导致硬件严重损坏，甚至 CPU 和主板不可修复的故障。
+>
+> **支持设备范围：**
+> - MIUI 12.5 至 14
+> - 安卓 11 至 13
+>
+> **绝不支持设备：**
+> - Redmi Note 9、Redmi Note 9C 及更早型号
+> - Redmi 9T 及更早型号
+> - 小米 12、小米 12 Pro 及更早型号
+> - 小米 8 及更早型号
+> - POCO F4 GT 及更早型号
+> - Redmi K50、Redmi K50G 及更早型号
+>
+> 安装前请务必确认设备支持，详情请联系 [工具作者](https://t.me/theskyfather)。
 
-⚠️ 安装自定义 **Splash 启动画面**仅推荐用于 **Xiaomi 手机**，因为用于创建它们的工具是专门为 Xiaomi 设备设计的（即便如此，也并非所有型号都受支持）。
-已在 **POCO F4 GT** 和 **Redmi Note 12 Turbo (POCO F5)** 上测试。
+## 安装自定义启动画面步骤：
 
-要刷入自定义的赛博朋克 Splash 图像：
-
- 1. 进入 **TWRP** 或其他第三方 Recovery
- 2. 点击 **“安装”**
- 3. 路径如下：`/data/adb/modules/Cyberpunk_2077_BA_SS/`
- 4. 选择 `logo.zip` 并刷入
-
----
+> 1. 重启进入 **TWRP** 或其他第三方 Recovery
+> 2. 点击 **“安装”**
+> 3. 浏览到路径 `/data/adb/modules/Cyberpunk_2077_BA_SS/`
+> 4. 选择 `logo.zip` 并刷入
+>
+> ---
 
 ### 反馈
 
 如果您有改进的想法，遇到任何错误，或者只是想分享您的想法，请随时联系我
+
+[支持本项目的资金捐助](https://www.donationalerts.com/r/eneizematic)
