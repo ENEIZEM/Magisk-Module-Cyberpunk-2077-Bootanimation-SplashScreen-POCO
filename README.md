@@ -100,7 +100,7 @@ All screens are redrawn in Cyberpunk 2077 style.
 >
 > Before installing, check compatibility with the [author of the logo tool](https://t.me/theskyfather).
 
-## To install custom logos (Splash, Fastboot, Destroyed system):
+### To install custom logos (Splash, Fastboot, Destroyed system):
 
  1. Reboot into **TWRP** or another custom recovery  
  2. Tap **«Install»**  

@@ -100,7 +100,7 @@ Todas las pantallas han sido rediseñadas al estilo Cyberpunk 2077.
 >
 > Antes de instalar, verifica la compatibilidad con el [autor de la herramienta de logos](https://t.me/theskyfather).
 
-## Para instalar logos personalizados (Splash, Fastboot, Advertencia de sistema destruido):
+### Para instalar logos personalizados (Splash, Fastboot, Advertencia de sistema destruido):
 
  1. Reinicia en **TWRP** u otro custom recovery  
  2. Toca **«Instalar»**  

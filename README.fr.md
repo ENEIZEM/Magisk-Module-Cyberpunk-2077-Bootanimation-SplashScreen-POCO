@@ -100,7 +100,7 @@ Tous sont adaptés au style Cyberpunk 2077.
 >
 > Before installing a new logo, check compatibility with the [author of the custom logo tool](https://t.me/theskyfather).
 
-## To install custom logos (Splash, Fastboot, Destroyed system):
+### To install custom logos (Splash, Fastboot, Destroyed system):
 
  1. Reboot into **TWRP** or another custom recovery
  2. Select **Install**

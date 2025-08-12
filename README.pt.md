@@ -100,7 +100,7 @@ Todos redesenhados no estilo Cyberpunk 2077.
 >
 > Antes de instalar uma nova logo, confira compatibilidade com o [autor da ferramenta de logo personalizada](https://t.me/theskyfather).
 
-## Para instalar as logos personalizadas (Splash, Fastboot, Sistema destruído):
+### Para instalar as logos personalizadas (Splash, Fastboot, Sistema destruído):
 
  1. Reinicie em **TWRP** ou outro recovery personalizado
  2. Toque em **«Instalar»**
