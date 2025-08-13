@@ -37,7 +37,7 @@ Compatível com qualquer dispositivo (não apenas POCO) com **Magisk 20.4+** e b
 /vendor/media/bootanimation.zip
 ```
 
-Se nada mudou, [fale comigo no Telegram](https://t.me/ENEIZEMatic) para que eu possa adicionar suporte ao diretório de animação do seu dispositivo.
+Se nada mudou, [fale comigo no Telegram](https://t.me/ENEIZEM) para que eu possa adicionar suporte ao diretório de animação do seu dispositivo.
 
 ---
 
@@ -113,4 +113,6 @@ Todos redesenhados no estilo Cyberpunk 2077.
 
 Sinta-se à vontade para entrar em contato se tiver ideias para melhorias, encontrar algum bug ou apenas quiser compartilhar seus pensamentos!
 
-[Apoie financeiramente o projeto](https://www.donationalerts.com/r/eneizematic)
+[postagem no 4pda](https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=138583478)
+
+[Apoie financeiramente o projeto](https://www.donationalerts.com/r/eneizem)

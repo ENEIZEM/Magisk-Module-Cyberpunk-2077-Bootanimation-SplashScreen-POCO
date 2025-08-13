@@ -37,7 +37,7 @@ This module works on any device running (not only POCO) **Magisk 20.4+** where t
 /vendor/media/bootanimation.zip  
 ```
 
-If the animation isn't changed on your device, [contact me on Telegram](https://t.me/ENEIZEMatic), so I can add support for your device's animation directory.
+If the animation isn't changed on your device, [contact me on Telegram](https://t.me/ENEIZEM), so I can add support for your device's animation directory.
 
 ---
 
@@ -113,4 +113,6 @@ All screens are redrawn in Cyberpunk 2077 style.
 
 Feel free to reach out if you have ideas for improvements, encounter any bugs, or just want to share your thoughts!
 
-[Support the project financially](https://www.donationalerts.com/r/eneizematic)
+[post on 4pda ](https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=138583478)
+
+[Support the project financially](https://www.donationalerts.com/r/eneizem)

@@ -37,7 +37,7 @@ Fonctionne avec tout appareil (pas seulement POCO) utilisant **Magisk 20.4+**, a
 /vendor/media/bootanimation.zip
 ```
 
-Si l'animation ne change pas sur votre appareil, [contactez-moi sur Telegram](https://t.me/ENEIZEMatic) pour que je puisse ajouter la prise en charge du répertoire d'animation de votre appareil.
+Si l'animation ne change pas sur votre appareil, [contactez-moi sur Telegram](https://t.me/ENEIZEM) pour que je puisse ajouter la prise en charge du répertoire d'animation de votre appareil.
 
 ---
 
@@ -113,4 +113,6 @@ Tous sont adaptés au style Cyberpunk 2077.
 
 N'hésitez pas à me contacter si vous avez des idées d'améliorations, rencontrez des bugs ou si vous souhaitez simplement partager vos réflexions!
 
-[Support the project financially](https://www.donationalerts.com/r/eneizematic)
+[publication sur 4pda ](https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=138583478)
+
+[Support the project financially](https://www.donationalerts.com/r/eneizem)

@@ -37,7 +37,7 @@
 /vendor/media/bootanimation.zip
 ```
 
-如果动画无效，请在 [Telegram 联系我](https://t.me/ENEIZEMatic)，以便我添加对您设备动画目录的支持。
+如果动画无效，请在 [Telegram 联系我](https://t.me/ENEIZEM)，以便我添加对您设备动画目录的支持。
 
 ---
 
@@ -114,4 +114,6 @@
 
 如果您有改进的想法，遇到任何错误，或者只是想分享您的想法，请随时联系我
 
-[支持本项目的资金捐助](https://www.donationalerts.com/r/eneizematic)
+[4pda 帖子](https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=138583478)
+
+[支持本项目的资金捐助](https://www.donationalerts.com/r/eneizem)

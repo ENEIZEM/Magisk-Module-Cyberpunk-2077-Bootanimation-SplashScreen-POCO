@@ -37,7 +37,7 @@ Este módulo funciona en cualquier dispositivo (no solo POCO) con **Magisk 20.4+
 /vendor/media/bootanimation.zip
 ```
 
-Si la animación no se cambió en tu dispositivo, [contáctame en Telegram](https://t.me/ENEIZEMatic) para que pueda agregar soporte para el directorio de animación de tu dispositivo.
+Si la animación no se cambió en tu dispositivo, [contáctame en Telegram](https://t.me/ENEIZEM) para que pueda agregar soporte para el directorio de animación de tu dispositivo.
 
 ---
 
@@ -113,4 +113,6 @@ Todas las pantallas han sido rediseñadas al estilo Cyberpunk 2077.
 
 ¡No dudes en comunicarte si tienes ideas para mejoras, encuentras algún error o simplemente quieres compartir tus pensamientos!
 
-[Apoya el proyecto financieramente](https://www.donationalerts.com/r/eneizematic)
+[publicación en 4pda](https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=138583478)
+
+[Apoya el proyecto financieramente](https://www.donationalerts.com/r/eneizem)
